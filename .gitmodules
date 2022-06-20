@@ -1,0 +1,48 @@
+[submodule "linux-c"]
+	path = linux-c
+	url = https://github.com/getiot/linux-c.git
+[submodule "cpp-courses"]
+	path = cpp-courses
+	url = https://github.com/getiot/cpp-courses.git
+[submodule "vtk-courses"]
+	path = vtk-courses
+	url = https://github.com/getiot/vtk-courses.git
+[submodule "boost-courses"]
+	path = boost-courses
+	url = https://github.com/getiot/boost-courses.git
+[submodule "ros-courses"]
+	path = ros-courses
+	url = https://github.com/getiot/ros-courses.git
+[submodule "pyqt-courses"]
+	path = pyqt-courses
+	url = https://github.com/getiot/pyqt-courses.git
+[submodule "lua-courses"]
+	path = lua-courses
+	url = https://github.com/getiot/lua-courses.git
+[submodule "qt-courses"]
+	path = qt-courses
+	url = https://github.com/getiot/qt-courses.git
+[submodule "lvgl-courses"]
+	path = lvgl-courses
+	url = https://github.com/getiot/lvgl-courses.git
+[submodule "mqtt-courses"]
+	path = mqtt-courses
+	url = https://github.com/getiot/mqtt-courses.git
+[submodule "protobuf-demo"]
+	path = protobuf-demo
+	url = https://github.com/getiot/protobuf-demo.git
+[submodule "react-courses"]
+	path = react-courses
+	url = https://github.com/getiot/react-courses.git
+[submodule "nodejs-courses"]
+	path = nodejs-courses
+	url = https://github.com/getiot/nodejs-courses.git
+[submodule "javascript-courses"]
+	path = javascript-courses
+	url = https://github.com/getiot/javascript-courses.git
+[submodule "shell-courses"]
+	path = shell-courses
+	url = https://github.com/getiot/shell-courses.git
+[submodule "cmake-demo"]
+	path = cmake-demo
+	url = https://github.com/getiot/cmake-demo.git
